@@ -1,3 +1,5 @@
 # html
 Dies ist ein testprojekt
-in dem ich mit meinen krassen html skills flexe :) 
+Auf dem Ich die Illu Webseite mit einem Freund Code :)
+
+Weiß wer, wie PHP, Javascript oder CSS geht?

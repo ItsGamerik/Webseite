@@ -1,0 +1,53 @@
+body{
+background-color: khaki;
+}
+h0{
+font-size: 50px;
+    color: black;
+}
+h1{
+font-size: 40px;
+    color: black;
+}
+h4{
+font-size: 30px;
+    color: black;
+}
+img{
+    width: 300;
+    height:300;
+    border-radius: 50%;
+}
+small{
+font-size: 20px;
+}
+.button1 {
+background-color:red;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+  .button2 {
+background-color:turquoise;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+  .button3 {
+background-color:hotpink;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}

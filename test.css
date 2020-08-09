@@ -6,12 +6,12 @@ body {
 }
 
 h1 {
-  color: #8B0000;
+  color: #80B000;
   margin-left: 20px;
 }
 
 h2 {
-  color: #0066ff;
+  color: #80B000;
   margin-left: 20px;
 }
 
@@ -29,5 +29,3 @@ a:hover, a:active {
   background-color: green;
   color: white;
 }
-/* hab ich ausm' Internet btw
-/* nvm jetzt ist es von mit selbst gemacht
